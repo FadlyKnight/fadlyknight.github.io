@@ -3872,6 +3872,10 @@ footer.bg-black2 {
 .footer-icons li a:hover, .footer-icons li a:focus {
     color: #ffffff;
 }
+.footer-icons li a.github:hover, .footer-icons li a.github:focus {
+    -webkit-box-shadow: 0 0 15px 30px #000000 inset;
+    box-shadow: 0 0 15px 30px #000000 inset;
+}
 .footer-icons li a.facebook:hover, .footer-icons li a.facebook:focus {
     -webkit-box-shadow: 0 0 15px 30px #4267B2 inset;
     box-shadow: 0 0 15px 30px #4267B2 inset;
